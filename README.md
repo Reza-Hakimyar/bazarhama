@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+#BazarHama is an online cross platform application which focuse on e-commerce. The developing on this application has still continued and with this app you'll do shopping, trading and earning. 
+
 
 This project is a starting point for a Flutter application.
 
