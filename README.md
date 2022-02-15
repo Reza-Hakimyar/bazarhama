@@ -6,6 +6,20 @@ A new Flutter project.
 
 # for your information, I added a screen record of this app as well which will introduce you with the first step of the project.
 
+On this project, I used these widgets:
+1. State Management (Provider)
+2. Badge
+3. BottomNavigationBar
+4. Circle Avatar 
+5. ListTile
+6. GridView.builder
+7. ListView.builder
+8. carousel_slider
+9. Intl
+10. flutter_svg
+11. cupertino_icons
+12. MediaQuery
+
 
 This project is a starting point for a Flutter application.
 
